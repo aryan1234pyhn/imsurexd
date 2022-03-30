@@ -1,0 +1,51 @@
+{
+   "token": "OTI0MjcxNDc3ODExOTcwMTA4.YccI5A.8wYh0xLameUWsEN3iMmgImowsZc",
+   "prefix": "c!",
+   "ownerIDS": [
+      "892411422057852989",
+      "861229954058551307",
+      "806111218636161044"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "u4kBK9w2UUO",
+   "status": {
+      "text": "{Prefix}Help | {prefix}setup | Get Started",
+      "text2": "Anti-Nuke , Music with filter , Join 2 Create & Many More",
+      "type": "playing",
+      "url": ""
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "losingtime.dpaste.org",
+            "port": 2124,
+            "password": "SleepingOnTrains",
+            "secure": false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "e1c28b41545349d4950d92c858ef08a3",
+      "clientID": "b88e0c2e35864f91863826cd931362cc"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": false,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
